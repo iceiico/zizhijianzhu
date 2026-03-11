@@ -1,0 +1,11 @@
+.zizhi img{
+    width: 750px;
+    height: 550px;
+    margin-top: 50px;
+}
+.zizhi{
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+   
+}
