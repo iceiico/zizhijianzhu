@@ -1,0 +1,17 @@
+.page li{
+    border: 2px #686868 solid;
+    border-radius: 8px;
+    
+    display: inline;
+    margin-left: 20px;
+    padding: 5px 10px;
+}
+.page{
+    margin: 90px;
+    display: flex;
+    justify-content: center;
+}
+.page a:hover{
+    color: #686868;
+    text-decoration: none;
+}

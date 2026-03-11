@@ -1,0 +1,39 @@
+.certificate{
+    width: 80vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 120px;
+
+    margin: auto;
+}
+.certificate img{
+        width: 270px;
+        height: 370px;
+        padding: 1vw 1vw;
+
+    }
+div{
+    width: 18vw;
+    text-align: center;
+    overflow: hidden;
+    border: 1px #646262 dashed;
+    margin-top: 20px;
+    
+}
+h4{
+     color: rgb(43, 39, 39);
+     padding: 1vw 0 0 0;
+     
+}
+p{
+
+    line-height: 2em;
+    font-size: 13px;
+    color: rgb(102, 99, 99);
+    padding: 0.3vw 2vw;
+}
+h4 a:hover{
+    color: rgb(137, 45, 137);
+    text-decoration: none;
+}
