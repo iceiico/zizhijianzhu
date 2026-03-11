@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(96, 93, 96);
+}
+header{
+    background-color: #231C1A;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+}
+h1{
+    color: rgb(199, 187, 187);
+    position: absolute;
+    left: 120px;
+    top: 0;
+    line-height: 80px;
+    text-indent: -9999px;
+}
+header a{
+    color: white;
+    text-decoration: none;
+
+}
+
+
+header li{
+    margin-right: 2vw;
+    display: inline;
+}
+header ul{
+    position: absolute;
+    right: 10vw;
+    line-height: 80px;
+    top: 0;
+}
+header img{
+    height: 70px;
+    width:500px;
+    position: absolute;
+    top: 5px;
+}
